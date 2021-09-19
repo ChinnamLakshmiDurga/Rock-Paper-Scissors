@@ -1,5 +1,5 @@
 /*
-//Joshua Hsu
+//Chinnam Lakshmi Durga
 //Rock Paper Scissors
 //simple rock paper scissors game
 */
